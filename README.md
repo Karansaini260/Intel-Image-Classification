@@ -1,2 +1,20 @@
-# Intel-Image-Classification
-In this project we will be working on the intel image i.e. images of buildings,forest,street,etc.We will build a convolutuinal neural network and train it on this images. This is a multi class classification problem and we will use keras.
+# Intel Image Classification 🏞️
+
+A **Convolutional Neural Network** (Keras) that classifies Intel scene images —
+buildings, forest, glacier, mountain, sea, street — into 6 categories.
+
+## ✨ What It Does
+- Image data loading & augmentation
+- CNN training with validation
+- Accuracy/loss curves + test predictions
+
+## 🚀 Getting Started
+```bash
+jupyter notebook
+```
+
+## 🛠️ Built With
+- Python · TensorFlow/Keras
+
+## 📄 License
+MIT
